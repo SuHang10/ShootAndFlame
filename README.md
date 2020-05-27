@@ -1,7 +1,10 @@
 # ShootAndFlame
 功能实现
-登录： 四个账号：netease、netease1、netease2、netease3
-密码：123： 
+
+登录：
+四个账号：netease、netease1、netease2、netease3
+密码：
+123： 
 端口不用选，被我关掉了，因为我发现不绑端口会自动分配一个  
 
 如遇未知数据错误，可以将根目录下的user.csv放到server下覆盖。。。  
