@@ -1,0 +1,5 @@
+pos_z,pos_x,pos_y,clip,level,hp,account,exp,password
+0,10,0,200,2,30,netease1,0,123
+-5,15,0,200,1,1000,netease3,10,123
+10,10,0,240,1,20,netease2,20,123
+5,5,0,180,1,1250,netease,10,123
